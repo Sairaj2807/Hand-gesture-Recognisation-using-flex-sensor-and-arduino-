@@ -1,10 +1,4 @@
 # Hand-gesture-Recognisation-using-flex-sensor-and-arduino
-Certainly! Here's a README template for a project on Hand Gesture Recognition using Flex Sensor and Arduino:
-
----
-
-# Hand Gesture Recognition using Flex Sensor and Arduino
-
 ## Overview
 This project demonstrates how to recognize hand gestures using flex sensors and Arduino. The flex sensors are used to measure the degree of bending in each finger, and Arduino processes this data to identify predefined gestures. This README provides an overview of the project, instructions for setup, and details about the code structure.
 
